@@ -4,7 +4,9 @@ The Data Structures and Algorithms Professional Certificate from GTx is a four-c
 
 **Course**: [https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms)
 
-## Course Progress: 0%
+## Course Progress: 5.2%
+
+- [x] 01 - Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues
 
 ## Course content
 
