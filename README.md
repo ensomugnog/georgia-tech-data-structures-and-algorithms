@@ -42,6 +42,48 @@ The Data Structures and Algorithms Professional Certificate from GTx is a four-c
       
       - [x] 01.01.03.07 - Support
       
+  - [x] 01.02 - Module 0 - Introduction and Review
+  
+    - [x] 01.02.01 - Introduction and Overview
+
+      - [x] 01.02.01.01 - Module 0 Introduction
+    
+    - [x] 01.02.02 - Java Review
+    
+      - [x] 01.02.02.03 - Visibility Modifiers and Constructors 
+
+      - [x] 01.02.02.04 - Value Reference Equality with Primitives and Strings
+      
+      - [x] 01.02.02.05 - Value Reference Equality with Objects
+      
+      - [x] 01.02.02.06 - Pass by Value Reference 
+  
+      - [x] 01.02.02.07 - Generics
+  
+      - [x] 01.02.02.08 - Generics Syntax
+      
+      - [ ] 01.02.02.09 - Comprehension
+      
+    - [x] 01.02.03 - Itera(ble-tor) and Compara(ble-tor)
+    
+      - [x] 01.02.03.01 - Iterable and Iterator
+      
+      - [x] 01.02.03.02 - Comparable and Comparator
+      
+      - [ ] 01.02.03.03 - Comprehension
+    
+    - [x] 01.02.04 - Big-O Concepts
+    
+      - [x] 01.02.04.01 - Motivation and Definitions 
+      
+      - [x] 01.02.04.02 - Conventions and Examples
+      
+      - [ ] 01.02.04.03 - Comprehension
+    
+    - [x] 01.02.05 - Review 
+      
+      - [x] 01.02.05.01 - Fundamental Readings
+
 ## Course content
 
 ## Repository configuration
