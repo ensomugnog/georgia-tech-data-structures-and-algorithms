@@ -91,6 +91,8 @@ The Data Structures and Algorithms Professional Certificate from GTx is a four-c
       - [x] 01.03.01.01 - Module 1 Introduction
       
       - [x] 01.03.01.02 - Study Tip
+    
+    - [x] 01.03.02 - Arrays and ArrayLists
 
 ## Course content
 
