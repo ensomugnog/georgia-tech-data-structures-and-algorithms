@@ -7,7 +7,41 @@ The Data Structures and Algorithms Professional Certificate from GTx is a four-c
 ## Course Progress: 5.2%
 
 - [x] 01 - Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues
+  
+  - [x] 01.01 - Course Information
+    
+    - [x] 01.01.01 - Welcome to Data Structures & Algorithms!
+    
+      - [x] 01.01.01.01 - Welcome to CS1332!
+      
+      - [x] 01.01.01.02 - Certificate Structure
+      
+      - [x] 01.01.01.03 - Readiness Questions
+      
+    - [x] 01.01.02 - Let's Get Started
+      
+      - [x] 01.01.02.01 - Course Outline
+      
+      - [x] 01.01.02.02 - Course Assessments
+      
+      - [x] 01.01.02.03 - We want to hear from you!
+    
+    - [x] 01.01.03 - Guide to the Course
+    
+      - [x] 01.01.03.01 - Keeping Track
+      
+      - [x] 01.01.03.02 - edX Navigation
 
+      - [x] 01.01.03.03 - Coding Assignments
+
+      - [x] 01.01.03.04 - Visualization Tool
+
+      - [x] 01.01.03.05 - Discussion Board
+
+      - [x] 01.01.03.06 - General FAQ
+      
+      - [x] 01.01.03.07 - Support
+      
 ## Course content
 
 ## Repository configuration
